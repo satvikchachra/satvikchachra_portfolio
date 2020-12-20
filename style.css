@@ -129,6 +129,7 @@ footer a:link, a:visited, a:hover, a:active {
 
 .navbar-container a:link, a:visited, a:hover, a:active {
     color: #1b11e4;
+    font-weight: 600;
 }
 
 /* misc */
