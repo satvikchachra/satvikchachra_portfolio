@@ -127,6 +127,10 @@ footer a:link, a:visited, a:hover, a:active {
     color: #1b11e4;
 }
 
+.navbar-container a:link, a:visited, a:hover, a:active {
+    color: #1b11e4;
+}
+
 /* misc */
 
 .btn-show-projects {
